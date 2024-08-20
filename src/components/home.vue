@@ -165,7 +165,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 6em;
+    padding: 0em 0em;
 }
 
 .logo img {
@@ -190,7 +190,7 @@ header {
     color: #D25D38;
     font-weight: bold;
     font-size: 1.1rem;
-    margin-left: 3em;
+    margin-left: 1em;
 }
 
 /* Responsive Design for Tablets and Smaller Screens */
